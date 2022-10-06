@@ -1,0 +1,1 @@
+Landing Page criada seguindo a orientação do video da Rafaella Ballerini, link: https://www.youtube.com/watch?v=llF6vD-RljE&t=1827s
